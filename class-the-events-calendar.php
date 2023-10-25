@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: The Events Calendar
- * Plugin URI: https://wordpress.org/plugins/the-events-calendar/
+ * Compatibility Plugin Name: The Events Calendar
+ * Compatibility Plugin URI: https://wordpress.org/plugins/the-events-calendar/
  *
  * Compatibility Description: Ensures compatibility with The Events Calendar.
  * Noteably: The Events Calendar does not store media, but it uses a fake file called 'silence'

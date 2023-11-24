@@ -1,7 +1,7 @@
 === WP-Stateless - The Events Calendar Addon ===
 Contributors: usability_dynamics, andypotanin, ideric, maxim.peshkov, planvova, obolgun
 Donate link: https://udx.io
-Tags: calendar, events, events calendar, schedule, google, google cloud, google cloud storage, cdn, uploads, media, stateless, backup, calendar, Event, events, organizer, schedule
+Tags: calendar, events, organizer, schedule, google, google cloud, google cloud storage, cdn, uploads, media, stateless, backup
 License: GPLv2 or later
 Requires PHP: 8.0
 Requires at least: 5.0
